@@ -1,0 +1,13 @@
+[package]
+name = "irxpansion-driver"
+description = "A driver for the irxpansion module."
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+repository = "https://github.com/las-vejas/irxpansion"
+
+[dependencies]
+embassy-rp = "0.10.0"
+embassy-time = "0.5"
+infrared = "0.14.2"
+xpanse-api = "0.2.3"

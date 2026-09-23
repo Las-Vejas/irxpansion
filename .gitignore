@@ -29,3 +29,7 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+target
+.DS_Store
+.cargo

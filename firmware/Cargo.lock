@@ -2409,7 +2409,7 @@ dependencies = [
 
 [[package]]
 name = "irxpansion-driver"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "embassy-rp",
  "embassy-time",

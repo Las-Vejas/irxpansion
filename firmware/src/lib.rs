@@ -247,7 +247,7 @@ impl DriverMeta for IrDriver {
     // MD0 through R1 (1k), MD1 through R2 (33k)
     const ID: ModuleID = ModuleID {
         md0: ModuleDetectResistor::R1K,
-        md1: ModuleDetectResistor::R33K,
+        md1: ModuleDetectResistor::R1K1,
     };
 }
 
